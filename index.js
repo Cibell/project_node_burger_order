@@ -1,10 +1,14 @@
 
 const express = require('express')
-const uuid = require('uuid')
+const  uuid   =  require ( 'uuid' ) ;
+
+const cors = require('cors')
 
 const app = express()
-const port = 3000
+const port = 3001
 app.use(express.json())
+app.use(cors())
+
 
 const orders = []
 
@@ -50,7 +54,6 @@ app.post('/order',methodUrl, (request, response) => {
 
     return response.json(orders)
 })
-
 app.put('/order/:id', checkUserId, methodUrl, (request, response) => {
     const id = request.orderId
     const {order, clientName, price } = request.body

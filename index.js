@@ -52,7 +52,7 @@ app.post('/order',methodUrl, (request, response) => {
 
     orders.push(orde)
 
-    return response.json(orders)
+    return response.json(orde)
 })
 app.put('/order/:id', checkUserId, methodUrl, (request, response) => {
     const id = request.orderId

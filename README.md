@@ -1,6 +1,6 @@
 
 # 💻 Desafio Node.Js
-🚀 Sobre o desafio
+🚀 Regras do desafio
 
 Crie uma aplicação que fará o cadastro dos pedidos de uma hamburgueria, e você deve utilizar Node e Express.
 

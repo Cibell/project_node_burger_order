@@ -6,7 +6,7 @@
 
 ## :white_check_mark: Requirementos ##
 
-Antes de você começar precisa ter o [Git](https://git-scm.com) and [Node](https://nodejs.org/en/) instalado.
+Antes de você começar precisa ter o [Git](https://git-scm.com) e [Node](https://nodejs.org/en/) instalado.
 
 
 # :computer: Tecnologias

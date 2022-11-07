@@ -1,9 +1,33 @@
 
-# 💻 Desafio Node.Js
+# 💻 Projeto Node.Js Api
 
 <img src="https://github.com/Cibell/project_node_burguer_order/blob/master/assetes/node1.png?raw=true?raw=true" width= "400px;" height="350px"/> <img src="https://github.com/Cibell/project_node_burguer_order/blob/master/assetes/node2.png?raw=true?raw=true?raw=true" width= "400px;" height="350px"/>
-  
-  <br><br>
+
+
+## :white_check_mark: Requirementos ##
+
+Antes de você começar precisa ter o [Git](https://git-scm.com) and [Node](https://nodejs.org/en/) instalado.
+
+
+# :computer: Tecnologias
+
+- [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+- [Node.Js](https://nodejs.org/en/)
+
+## :checkered_flag: Iniciando ##
+
+```bash
+# Clone this project
+$ git clone https://github.com/Cibell/project_node_burguer_order.git
+# Access
+ cd movies
+# Install dependencies
+$ yarn or npm 
+# Run the project
+$ yarn start or npm start 
+# The server will initialize in the <http://localhost:3000>
+```
+<br><br>
 # 🚀 Regras do desafio
 
 Crie uma aplicação que fará o cadastro dos pedidos de uma hamburgueria, e você deve utilizar Node e Express.
@@ -51,36 +75,6 @@ Crie um middleware que é chamado em todas requisições que tenha um console.lo
 
 Exemplo
 [GET] - /order
-
-
-# :computer: Tecnologias
-
- ![image](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
-
-![image](https://camo.githubusercontent.com/194ae9b0be9bfd4caedab16de320d3987f4c144112461590a206262d21eb769b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d56697375616c25323053747564696f253230436f64652d3333333333333f7374796c653d666c6174266c6f676f3d76697375616c2d73747564696f2d636f6465266c6f676f436f6c6f723d303037414343)
-
-
-
-
-
-# :pencil: Autor
-<table>
-  <tr>
-    <td align="right">
-      <a href="https://github.com/rodolfomori" target="blank">
-        <img src="https://user-images.githubusercontent.com/95030203/155012879-fc6991b4-5357-4675-9ef5-1dd56f795265.png" width="100px;" alt="Foto do Rodolfo Mori"/><br>
-        <sub>
-          <b>Rodolfo Mori</b>
-        </sub>
-      </a>
-    </td>
-    <table>
-    
-    Feito com ♥ by Dev Club - Rodolfo Mori
 
 
 # :closed_book: Licença

@@ -24,7 +24,7 @@ $ git clone https://github.com/Cibell/project_node_burguer_order.git
 # Install dependencies
 $ yarn or npm 
 # Run the project
-$ yarn start or npm start 
+$ yarn dev or npm run dev 
 # The server will initialize in the <http://localhost:3000>
 ```
 <br><br>
